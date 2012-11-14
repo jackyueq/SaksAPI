@@ -32,6 +32,8 @@ while link_to_next_page != None:
 	#Do something with your content, save it in your DB, extract the data you want, etc
 	#For the example, I am gonna print the product code only
 	print next_page
+	#If you want see all product keys-values just remove the ['product_code'] below
+	#For now this test the product code is all we need
 	print resource[0]['product_code']
 
 	#Get the url to the next page

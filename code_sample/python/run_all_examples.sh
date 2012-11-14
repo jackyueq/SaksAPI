@@ -1,0 +1,11 @@
+python read_product_catalog.py
+
+python read_one_product_by_product_code.py
+
+python read_one_product_by_upc.py
+
+python read_inventory_by_upc.py
+
+python read_inventory_by_product_code.py
+
+#python read_one_product_by_product_code.py
