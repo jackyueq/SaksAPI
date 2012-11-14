@@ -2,9 +2,9 @@
 
 #api_key, note: You will need to add your own api key in the constants below
 api_key = "?api_key="
-api_key_product = api_key + "gb4cqdv5b8xar2wjeewup3kd"
-api_key_inventory = api_key + "8cxzk6c4yjwue87nrhe5je7m"
-api_key_events = api_key + "ddzg6ps27e8dpua2m5ek9xty"
+api_key_product = api_key + "[Your api key goes here]"
+api_key_inventory = api_key + "[Your api key goes here]"
+api_key_events = api_key + "[Your api key goes here]"
 
 unsecure_protocol = "http://"
 server_name = "api.saks.com/"
